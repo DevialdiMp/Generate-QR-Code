@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "node-qr-image": "^0.0.1",
+    "nodemon": "^3.1.7",
+    "qrcode": "^1.5.4"
+  }
+}
